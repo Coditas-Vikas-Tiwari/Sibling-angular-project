@@ -1,0 +1,14 @@
+/* Add application styles & imports to this file! */
+body {
+  font-family: Lato;
+  background-color: #eee;
+}
+
+section {
+  background-color: #fff;
+  border: 1px solid lightgray;
+  width: 15em;
+  padding: 1em;
+  margin: 1em 0;
+}
+
